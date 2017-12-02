@@ -28,7 +28,7 @@ This is WordPress version, other platforms version will release soon. Follow us 
 <h4>INSTALLATION</h4>
 Manual installation is easy and takes fewer than one minute.
 
-1. Download the plugin from wordpress.org, unpack it and upload the <strong>[WP Facebook Messenger]</strong> folder to your <strong>wp-content/plugins/</strong> directory.
+1. Download the plugin from wordpress.org, unpack it and upload the <strong>[Messenger Customer Chat]</strong> folder to your <strong>wp-content/plugins/</strong> directory.
 2. Activate the plugin through the ‘Plugins‘ menu in WordPress.
 3. Go to your main <strong>WordPress menu > Messenger Chat</strong> and enter your fan page URL
 
